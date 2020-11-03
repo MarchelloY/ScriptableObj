@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 146f9f288e4944776aed14ac9f27c1e9, type: 3}
+  m_Name: SwordData2
+  m_EditorClassIdentifier: 
+  swordName: Ice Sword
+  description: 234
+  prefab: {fileID: 100000, guid: 2b4e0496b71e5864ea17e62c57a06963, type: 3}
+  icon: {fileID: 21300000, guid: 8f4de0cb311f14c64935cb6adaadf75e, type: 3}
+  cost: 7
+  damage: 3
+  rotationSpeed: 40
+  updateEvent: {fileID: 11400000, guid: 69fcffd87a10142719cf24f1ff64ed18, type: 2}
