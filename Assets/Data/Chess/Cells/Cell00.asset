@@ -9,11 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 311db1ea6ecb4f18840d1e7991d142fe, type: 3}
-  m_Name: AnimeCharacter2
+  m_Script: {fileID: 11500000, guid: 0047251f4bc141b19048810fcfebc2ff, type: 3}
+  m_Name: Cell00
   m_EditorClassIdentifier: 
-  legSize: 0.75
-  kneeSize: 1.123
-  chestSize: 0.962
-  neckSize: 1.033
-  breastSize: 0.891
+  posCell: {x: 0, y: 0, z: 0}
+  figure: {fileID: 11400000, guid: 2b24c970d93e84e3f87d8e263613f42e, type: 2}
+  teamColor: 0

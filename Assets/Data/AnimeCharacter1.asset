@@ -12,8 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 311db1ea6ecb4f18840d1e7991d142fe, type: 3}
   m_Name: AnimeCharacter1
   m_EditorClassIdentifier: 
-  legSize: 0.825
-  kneeSize: 0.88
-  chestSize: 1.042
-  neckSize: 0.867
-  breastSize: 1.025
+  legSize: 0.792
+  kneeSize: 1.4
+  chestSize: 0.9
+  neckSize: 1.053
+  breastSize: 1.001

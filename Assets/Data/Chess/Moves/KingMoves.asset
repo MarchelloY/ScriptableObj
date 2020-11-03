@@ -9,11 +9,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 311db1ea6ecb4f18840d1e7991d142fe, type: 3}
-  m_Name: AnimeCharacter2
+  m_Script: {fileID: 11500000, guid: 901bcefb814247e8935559b37b8cf648, type: 3}
+  m_Name: KingMoves
   m_EditorClassIdentifier: 
-  legSize: 0.75
-  kneeSize: 1.123
-  chestSize: 0.962
-  neckSize: 1.033
-  breastSize: 0.891
+  moves:
+  - {x: 1, y: 0}
+  - {x: 1, y: 1}
+  - {x: 0, y: 1}
+  - {x: -1, y: 1}
+  - {x: -1, y: 0}
+  - {x: -1, y: -1}
+  - {x: 0, y: -1}
+  - {x: 1, y: -1}
